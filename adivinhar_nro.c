@@ -31,5 +31,5 @@ int aleatorio() // seleciona o numero aleatorio
 {
     srand( (unsigned)time(NULL) );
 
-    return (1 + rand()%100); // um número entre 1 100
+    return (1 + rand()%100); // um nÃºmero entre 1 100
 }
